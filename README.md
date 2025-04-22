@@ -1,3 +1,2 @@
-## Hi there 👋
-
-[LeetCode Stats](https://leetcard.jacoblin.cool/Mobel01?theme=dark&font=Merienda%20One&ext=heatmap)
+## 📈 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mobel01?theme=dark&font=Merienda%20One&ext=heatmap)
