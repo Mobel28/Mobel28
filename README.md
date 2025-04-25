@@ -1,2 +1,2 @@
 ## 📈 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Mobel01?theme=dark&font=Merienda%20One&ext=heatmap)
+![LeetCode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/Mobel01?theme=chartreuse&font=Noto%20Sans%20Lydian&ext=heatmap))
